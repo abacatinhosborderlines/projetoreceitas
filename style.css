@@ -11,6 +11,6 @@
     --fonte-secundaria: 'Playfair Display', sans-serif;
 }
 
-header{
+h1{
      font-family: var(--fonte-primaria);
 }
