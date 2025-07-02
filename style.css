@@ -1,1 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+:root {
+    --cor-primaria: #000000;
+    --cor-secundaria: #F6F6F6;
+    --cor-terciaria: #22D4FD;
+    --cor-hover: #272727;
+
+    --fonte-primaria: 'Agbalumo', sans-serif;
+    --fonte-secundaria: 'Playfair Display', sans-serif;
+}
+
+header{
+     font-family: var(--fonte-primaria);
+}
