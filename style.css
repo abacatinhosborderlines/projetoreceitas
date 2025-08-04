@@ -44,7 +44,7 @@ header {
 
 
 main {
-    height: auto;
+    height: 200px;
     background-color: var(--cor-quaternaria);
   margin: 5px auto;
   padding: 10px;
