@@ -46,8 +46,8 @@ header {
 main {
     height: 800px;
     background-color: var(--cor-quaternaria);
-  margin: 5px auto;
-  padding: 10px;
+  margin: 1px;
+  padding: 5px;
 }
 
 .container {
@@ -67,7 +67,7 @@ main {
   background-color: var(--cor-secundaria);
   border-radius: 10px;
   padding: 30px;
-  width: 30%;
+  width: 25%;
   height: 50%;
   min-width: 280px;
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
