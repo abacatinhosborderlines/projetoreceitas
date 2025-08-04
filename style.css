@@ -44,8 +44,8 @@ header {
 
 main {
     background-color: var(--cor-quaternaria);
-  margin: 40px auto;
-  padding: 20px;
+  margin: 20px auto;
+  padding: 10px;
 }
 
 .container {
