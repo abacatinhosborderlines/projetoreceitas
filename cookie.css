@@ -4,7 +4,7 @@ margin: 0;
 box-sizing: border-box;
 }
 body {
-background: #13293d;
+background: var(--cor-secundaria);
 display: flex;
 justify-content: center;
 font-family: monospace;
