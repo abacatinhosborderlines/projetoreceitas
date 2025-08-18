@@ -9,6 +9,7 @@ body {
   height: 100vh;
   font-family: "Arial";
   gap:16px;
+  background-image: url("fundo.jpg")
 }
 .card {
   background-color: #fff;
